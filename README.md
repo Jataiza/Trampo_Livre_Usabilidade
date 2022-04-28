@@ -6,14 +6,14 @@ Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar p
 Índice/Sumário
 =================
 <!--ts-->
-   <p>:round_pushpin: [Time](#Time)</p>
-   * :round_pushpin: [Links](#Links)
-   * :round_pushpin:[Status](#Status)
-   * :round_pushpin:[Requisitos Funcionais](#Requisitos-Funcionais)
-   * :round_pushpin: [Tecnologias Usadas](#Tecnologis-Usadas)
-   * :round_pushpin:[Contribuição](#Contribuição)
-   * :round_pushpin: [Licença](#Licença)
-   * :round_pushpin: [Agradecimento](#Agradecimento)
+   * [Time](#Time)
+   * [Links](#Links)
+   * [Status](#Status)
+   * [Requisitos Funcionais](#Requisitos-Funcionais)
+   * [Tecnologias Usadas](#Tecnologis-Usadas)
+   * [Contribuição](#Contribuição)
+   * [Licença](#Licença)
+   * [Agradecimento](#Agradecimento)
 <!--te-->
 
 Time
