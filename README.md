@@ -18,7 +18,7 @@ Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar p
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-TIME
+#TIME
 -Francy Brandão Miranda
 -Jaisler Henrique Calvacante Silva Melo
 -Jose Cláudio dos Santos
