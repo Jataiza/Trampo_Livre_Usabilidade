@@ -48,8 +48,8 @@ Status
 
 Requisitos Funcionais
 =================
--Cadastrar Usuario
--Fazer Login
+<p>-Cadastrar Usuario</p>
+<p>-Fazer Login</p>
 
 Tecnologis Usadas
 =================
