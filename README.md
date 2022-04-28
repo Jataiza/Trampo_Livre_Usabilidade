@@ -28,18 +28,17 @@ Links
 =================
 
 LINK DA SEPARAÇÃO DAS PARTES:
-
 https://trello.com/b/GOfX3JbE/trampo-livre-us
-
-https://www.figma.com/file/4WwieYpqkQXo5D8H811HMJ/Trampo-Livre
 
 Status
 =================
+🚧 Em desenvolvimento . . .
 
 Requisitos Funcionais
 =================
-<p>Cadastrar Usuario</p>
-<p>Fazer Login</p>
+-Cadastrar Usuario
+-Fazer Login
+
 Tecnologis Usadas
 =================
 
