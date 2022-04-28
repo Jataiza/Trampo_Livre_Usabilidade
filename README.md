@@ -50,7 +50,7 @@ Requisitos Funcionais
 =================
 <p>-Cadastrar Usuario</p>
 <p>-Fazer Login</p>
-<p>Cadasto do Portfólio</p> 
+<p>-Cadasto do Portfólio</p> 
 
 Tecnologis Usadas
 =================
