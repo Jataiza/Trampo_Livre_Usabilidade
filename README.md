@@ -9,13 +9,10 @@ Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar p
    * [Links](#Links)
    * [Status](#Status)
    * [Requisitos Funcionais](#Requisitos-Funcionais)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologis Usadass](#Tecnologis-Usadas)
+   * [Contribuição](#Contribuição)
+   * [Licença](#Licença)
+   * [Agradecimento](#Agradecimento)
 <!--te-->
 
 Time
@@ -39,7 +36,7 @@ Status
 Requisitos Funcionais
 =================
 
-Tecnologis usadas
+Tecnologis Usadas
 =================
 
 Contribuição
