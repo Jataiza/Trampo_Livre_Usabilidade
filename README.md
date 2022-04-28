@@ -9,7 +9,7 @@ Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar p
    * [Links](#Links)
    * [Status](#Status)
    * [Requisitos Funcionais](#Requisitos-Funcionais)
-   * [Tecnologis Usadass](#Tecnologis-Usadas)
+   * [Tecnologias Usadas](#Tecnologis-Usadas)
    * [Contribuição](#Contribuição)
    * [Licença](#Licença)
    * [Agradecimento](#Agradecimento)
