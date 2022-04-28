@@ -19,12 +19,12 @@ Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar p
 <!--te-->
 
 #TIME
--Francy Brandão Miranda
--Jaisler Henrique Calvacante Silva Melo
--Jose Cláudio dos Santos
--Jataiza de Arruda Barboza
--Luis Henrique Carvalho
--Luccas Costa Cabrini
+<p>-Francy Brandão Miranda</p>
+<p>-Jaisler Henrique Calvacante Silva Melo</p>
+<p>-Jose Cláudio dos Santos</p>
+<p>-Jataiza de Arruda Barboza</p>
+<p>-Luis Henrique Carvalho</p>
+<p>-Luccas Costa Cabrini</p>
 
 
 LINK DA SEPARAÇÃO DAS PARTES:
