@@ -37,7 +37,6 @@ Time
 
 Links
 =================
-
 LINK DA SEPARAÇÃO DAS PARTES:
 https://trello.com/b/GOfX3JbE/trampo-livre-us
 https://www.figma.com/file/4WwieYpqkQXo5D8H811HMJ/Trampo-Livre
@@ -58,6 +57,7 @@ Tecnologis Usadas
 
 Licença
 =================
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
 
 Agradecimento
 =================
