@@ -37,6 +37,7 @@ Time
 
 Links
 =================
+
 LINK DA SEPARAÇÃO DAS PARTES:
 https://trello.com/b/GOfX3JbE/trampo-livre-us
 https://www.figma.com/file/4WwieYpqkQXo5D8H811HMJ/Trampo-Livre
@@ -49,6 +50,7 @@ Requisitos Funcionais
 =================
 <p>-Cadastrar Usuario</p>
 <p>-Fazer Login</p>
+<p>Cadasto do Portfólio</p> 
 
 Tecnologis Usadas
 =================
@@ -57,7 +59,6 @@ Tecnologis Usadas
 
 Licença
 =================
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
 
 Agradecimento
 =================
