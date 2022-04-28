@@ -28,7 +28,9 @@ Links
 =================
 
 LINK DA SEPARAÇÃO DAS PARTES:
+
 https://trello.com/b/GOfX3JbE/trampo-livre-us
+
 https://www.figma.com/file/4WwieYpqkQXo5D8H811HMJ/Trampo-Livre
 
 Status
