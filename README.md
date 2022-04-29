@@ -2,16 +2,8 @@
 <img src="Trampo livre01.png">
 
 CONTEXTO
-Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar pessoas que precisam de profissionais qualificados. Com o crescimento de busca de profissionais especializados desenvolvemos um plataforma que você pode conectar um dos nosso profissionais sem ter complicação.
-
-
-PROBLEMA A SER INVESTIGADO
-
-
-SOLUÇÃO PROPOSTA
-
-
-
+Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar pessoas com profissionais qualificados e vice versa. Visando o crescimento de busca de profissionais especializados desenvolvemos a plataforma que você pode se conectar com profissionais sem ter complicação.
+Atualmente, profissionais de diversas áreas não precisam mais estar vinculados a uma empresa para exercerem sua profissão e foi pensando neste problema que foi desenvolvido o trampo livre.
 
 Índice/Sumário
 =================
@@ -21,7 +13,6 @@ SOLUÇÃO PROPOSTA
    * [Status](#Status)
    * [Requisitos Funcionais](#Requisitos-Funcionais)
    * [Tecnologias Usadas](#Tecnologis-Usadas)
-   * [Contribuição](#Contribuição)
    * [Licença](#Licença)
    * [Agradecimento](#Agradecimento)
 <!--te-->
@@ -48,19 +39,11 @@ Status
 
 Requisitos Funcionais
 =================
-<p>✔️Fazer o login <p>
-<p>✔️Cadastrar Usuario</p>
-<p>✔️Cadastrar novos freelancer</p>
-<p>✔️Pesquisar por vagas</p> 
-<p>✔️Criar seu portófolio</p>
-<p>✔️Aceitar e recusar propostas feitas por empresas
-<p>✔️Definir o valor do seu trabalho </p>
-<p>✔️Freelancer pode ter assinaturas vip para ter seu porfólio em destaque</p>
+<p>-Cadastrar Usuario</p>
+<p>-Fazer Login</p>
+<p>-Cadasto do Portfólio</p> 
 
-  
 Tecnologis Usadas
-=================
-
 =================
 
 Licença
