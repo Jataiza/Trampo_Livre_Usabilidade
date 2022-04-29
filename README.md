@@ -1,8 +1,7 @@
 <h1 align="center">Usabilidade, desenvolvimento web, mobile e jogos</h1>
 <img src="Trampo livre01.png">
 
-Contexto
-====================
+CONTEXTO
 Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar pessoas com profissionais qualificados e vice versa. Visando o crescimento de busca de profissionais especializados desenvolvemos a plataforma que você pode se conectar com profissionais sem ter complicação.
 Atualmente, profissionais de diversas áreas não precisam mais estar vinculados a uma empresa para exercerem sua profissão e foi pensando neste problema que foi desenvolvido o trampo livre.
 
@@ -30,7 +29,6 @@ Time
 Links
 =================
 
-LINK DA SEPARAÇÃO DAS PARTES:
 https://trello.com/b/GOfX3JbE/trampo-livre-us
 https://www.figma.com/file/4WwieYpqkQXo5D8H811HMJ/Trampo-Livre
 
@@ -50,7 +48,7 @@ Requisitos Funcionais
 
 ✔️Criar seu portófolio
 
-✔️Aceitar e recusar propostas feitas por empresas
+✔️Aceitar e recusar propostas
 
 ✔️Definir o valor do seu trabalho
 
