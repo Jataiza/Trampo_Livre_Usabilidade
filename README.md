@@ -48,10 +48,16 @@ Status
 
 Requisitos Funcionais
 =================
-<p>-Cadastrar Usuario</p>
-<p>-Fazer Login</p>
-<p>-Cadasto do Portfólio</p> 
+<p>✔️Fazer o login <p>
+<p>✔️Cadastrar Usuario</p>
+<p>✔️Cadastrar novos freelancer</p>
+<p>✔️Pesquisar por vagas</p> 
+<p>✔️Criar seu portófolio</p>
+<p>✔️Aceitar e recusar propostas feitas por empresas
+<p>✔️Definir o valor do seu trabalho </p>
+<p>✔️Freelancer pode ter assinaturas vip para ter seu porfólio em destaque</p>
 
+  
 Tecnologis Usadas
 =================
 
