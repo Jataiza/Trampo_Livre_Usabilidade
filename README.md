@@ -1,7 +1,8 @@
 <h1 align="center">Trampo Livre</h1>
 <img src="Trampo livre01.png">
 
-CONTEXTO
+Contexto
+=================
 Trampo livre é uma plataforma que foi criada em 2022 com objetivo de conectar pessoas com profissionais qualificados e vice versa. Visando o crescimento de busca de profissionais especializados, desenvolvemos a plataforma que você pode se conectar com profissionais sem ter complicação.
 Atualmente, profissionais de diversas áreas não precisam mais estar vinculados a uma empresa para exercerem sua profissão e foi pensando neste problema que foi desenvolvido o trampo livre.
 
