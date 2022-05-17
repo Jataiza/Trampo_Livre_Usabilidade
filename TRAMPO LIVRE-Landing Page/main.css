@@ -70,24 +70,37 @@ header nav a:hover {
     padding-top: 30px;
     padding-left: 40px;
     text-align: center;
-
 }
-
-.sobre .texto01 {
+.sobre .texto1 {
     color: white;
     font-family: 'Josefin Sans', sans-serif;
     padding-top: 30px;
     padding-left: 40px;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
 }
-.comofunciona .texto02{
+.comofunciona .texto2 {
     color: rgb(7, 7, 7);
     font-family: 'Josefin Sans', sans-serif;
     padding-top: 30px;
     padding-left: 40px;
     text-align: center;
     font-size: 30px;
-
 }
+.texto3{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.card-img-top{
+    width: 75px;
+}
+footer {
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+  
+}
+
 
