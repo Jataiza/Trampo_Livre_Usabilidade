@@ -39,15 +39,15 @@ Status
 
 Requisitos Funcionais
 =================
-✔️Fazer o login
+✔️Fazer o login -Jataiza
 
-✔️Cadastrar Usuario
+✔️Cadastrar Usuario-Jataiza
 
-✔️Cadastrar novos freelancer
+✔️Cadastrar novos freelancer-Luis
 
-✔️Pesquisar por vagas
+✔️Pesquisar por vagas-Fran
 
-✔️Criar seu portófolio
+✔️Criar seu portófolio-Lucas
 
 ✔️Aceitar e recusar propostas
 
