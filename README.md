@@ -39,11 +39,11 @@ Status
 
 Requisitos Funcionais
 =================
-✔️Fazer o login -Jataiza
+✔️Fazer o login 
 
-✔️Cadastrar Usuario-Jataiza
+✔️Cadastrar Usuario
 
-✔️Cadastrar novos freelancer-Luis
+✔️Cadastrar novos freelancer
 
 ✔️Pesquisar por vagas-Fran
 
