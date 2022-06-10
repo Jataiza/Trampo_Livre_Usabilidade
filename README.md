@@ -57,6 +57,9 @@ Requisitos Funcionais
 
 Tecnologis Usadas
 =================
+<p>:pushpin:Html 
+<p>:pushpin:Css
+<p>:pushpin:Java Script 
 
 Licença
 =================
