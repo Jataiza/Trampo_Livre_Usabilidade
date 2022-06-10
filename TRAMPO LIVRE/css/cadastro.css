@@ -123,9 +123,12 @@ footer {
     color: #e74c3c;
 }
 
-.botao {
+.botao a {
     margin-top: 30px;
-    
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+      
 }
 h2 {
     text-align: center;

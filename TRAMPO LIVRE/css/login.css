@@ -125,7 +125,9 @@ footer {
     color:#e74c3c;
 }
 .botao01{
-   margin-top: 10px;
+    text-decoration: none;
+    margin-top: 20px;
+    color: white;
 }
 h2{
     font-family:'Manrope', sans-serif;
